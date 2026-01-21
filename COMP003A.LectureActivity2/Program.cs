@@ -10,6 +10,8 @@
             // ReadLine should allow input from the user to type a value
             Console.WriteLine("Enter second number here:");
             // should prompt the user to write another number
+            string userNumber2 = Console.ReadLine();
+            // should allow input of a second number from user
 
         }
     }
