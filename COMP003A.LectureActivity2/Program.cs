@@ -22,7 +22,8 @@ namespace COMP003A.LectureActivity2
             // assuming should take the sum of both user inputs
             double average = sum / 2;
             // assuming should find the average between the user inputs
-            
+            Console.WriteLine($"{sum}");
+            // console writeline should display the sum of both number inputs
            
         }
     }
