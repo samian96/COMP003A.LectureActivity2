@@ -14,10 +14,10 @@ namespace COMP003A.LectureActivity2
             // should prompt the user to write another number
             string userNumber2 = Console.ReadLine();
             // should allow input of a second number from user
-            double number1;
-            // should declare variable from the user input I think
-            double number2;
-
+            double number1 = double.Parse(userNumber);
+            // should store the variable from user input
+            double number2 = double.Parse(userNumber2);
+           
         }
     }
 }
