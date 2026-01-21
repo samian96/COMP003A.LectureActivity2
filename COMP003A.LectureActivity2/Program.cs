@@ -29,6 +29,7 @@ namespace COMP003A.LectureActivity2
             Console.WriteLine("Average of the numbers");
             Console.WriteLine($"{average}");
             // should display the average of numbers input
+            Console.WriteLine("Concatenation example");
            
         }
     }
