@@ -18,12 +18,17 @@ namespace COMP003A.LectureActivity2
             // should store the variable from user input
             double number2 = double.Parse(userNumber2);
             // should store the variable from user input 2
+            Console.WriteLine("Interpolation example");
             double sum = number1 + number2;
             // assuming should take the sum of both user inputs
             double average = sum / 2;
             // assuming should find the average between the user inputs
+            Console.WriteLine("Sum of the numbers");
             Console.WriteLine($"{sum}");
             // console writeline should display the sum of both number inputs
+            Console.WriteLine("Average of the numbers");
+            Console.WriteLine($"{average}");
+            // should display the average of numbers input
            
         }
     }
