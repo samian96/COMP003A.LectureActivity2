@@ -38,8 +38,10 @@ namespace COMP003A.LectureActivity2
 
             Console.WriteLine("Comparison output");
 
+            Console.WriteLine("is " + number1 + " greater than " + number2 + " ?");
             Console.WriteLine($"{number1 > number2}");
             // compares the value to see if number1 ia greater than number2 input
+            Console.WriteLine("is " + number1 + " equal to " + number2 + " ?");
             Console.WriteLine($"{number1 == number2}");
             // compares the values to see if number1 and number2 are equal
             
