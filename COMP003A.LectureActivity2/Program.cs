@@ -30,6 +30,11 @@ namespace COMP003A.LectureActivity2
             Console.WriteLine($"{average}");
             // should display the average of numbers input
             Console.WriteLine("Concatenation example");
+
+            Console.WriteLine("The sum of " + number1 + "and " + number2 + "is " + sum + "."); 
+            // example of a concatenation to create the sum
+
+
            
         }
     }
