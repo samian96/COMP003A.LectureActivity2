@@ -33,7 +33,7 @@ namespace COMP003A.LectureActivity2
 
             Console.WriteLine("The sum of " + number1 + " and " + number2 + " is " + sum + ".");
             // example of a concatenation to create the sum
-            Console.WriteLine("The average of " + average + " is " + ".");
+            Console.WriteLine("The average of " + number1 + " and  " + number2 + " is " + average);
             // example of a concatenation to create the average
 
             Console.WriteLine("Comparison output");
