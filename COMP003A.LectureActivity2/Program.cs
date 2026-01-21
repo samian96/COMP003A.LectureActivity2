@@ -17,6 +17,12 @@ namespace COMP003A.LectureActivity2
             double number1 = double.Parse(userNumber);
             // should store the variable from user input
             double number2 = double.Parse(userNumber2);
+            // should store the variable from user input 2
+            double sum = number1 + number2;
+            // assuming should take the sum of both user inputs
+            double average = sum / 2;
+            // assuming should find the average between the user inputs
+            
            
         }
     }
