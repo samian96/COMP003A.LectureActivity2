@@ -1,4 +1,6 @@
-﻿namespace COMP003A.LectureActivity2
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace COMP003A.LectureActivity2
 {
     internal class Program
     {
@@ -12,6 +14,9 @@
             // should prompt the user to write another number
             string userNumber2 = Console.ReadLine();
             // should allow input of a second number from user
+            double number1;
+            // should declare variable from the user input I think
+            double number2;
 
         }
     }
